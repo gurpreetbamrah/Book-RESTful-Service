@@ -1,0 +1,7 @@
+com/howtoprogram/book/BookController.class
+com/howtoprogram/book/Book.class
+com/howtoprogram/service/FileSystemStorageService.class
+com/howtoprogram/service/StorageException.class
+Application.class
+com/howtoprogram/service/StorageService.class
+com/howtoprogram/book/FileUploadController.class
